@@ -13,4 +13,4 @@ hello auguigu! hello git!
 hello auguigu! hello git!
 hello auguigu! hello git!
 hello auguigu! hello git! master test
-hello auguigu! hello git!
+hello auguigu! hello git! hot-fix test
